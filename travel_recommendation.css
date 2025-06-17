@@ -76,11 +76,12 @@
   #home {
     padding: 60px 30px;
     text-align: center;
-    background: url('images/hero-image.jpg') no-repeat center center/cover;
-    color: white;
+    background: url('hero-image.jpg') no-repeat center center/cover;
+    color: rgb(0, 0, 0);
     min-height: 70vh;
     position: relative;
   }
+  
   
   .hero-content {
     background: rgba(0, 0, 0, 0.6);
