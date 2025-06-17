@@ -77,7 +77,7 @@
     padding: 60px 30px;
     text-align: center;
     background: url('hero-image.jpg') no-repeat center center/cover;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     min-height: 70vh;
     position: relative;
   }
